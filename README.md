@@ -6,3 +6,5 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: aslisachin
 - ⚡ Fun fact: I'm a fat and ugly.
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=AsliSachin&count_private=true&show_icons=true&hide=contribs)
