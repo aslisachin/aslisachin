@@ -1,3 +1,5 @@
+![AsliSachin's Github Banner](/assets/github-banner.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on some of my own projects.
