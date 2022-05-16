@@ -9,6 +9,8 @@
 - 📫 How to reach me: aslisachin
 - ⚡ Fun fact: I'm a fat and ugly.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aslisachin&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=AsliSachin&count_private=true&show_icons=true&hide=contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsliSachin&layout=compact)
