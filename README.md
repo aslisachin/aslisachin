@@ -13,7 +13,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aslisachin&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=AsliSachin&count_private=true&show_icons=true&hide=contribs)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsliSachin&count_private=true&show_icons=true&hide=contribs">
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsliSachin&layout=compact)
 
