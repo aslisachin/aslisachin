@@ -16,7 +16,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AsliSachin&count_private=true&show_icons=true&hide=contribs">
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsliSachin&layout=compact)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AsliSachin)
